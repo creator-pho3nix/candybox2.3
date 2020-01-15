@@ -1,0 +1,49 @@
+<!DOCTYPE HTML>
+2
+
+3
+<html>
+4
+  <head>
+5
+    <title>Candy Box 2 - how to install the typescript compiler?</title>
+6
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+7
+
+8
+    <style type="text/css">
+9
+      body{
+10
+        font-family: monospace;
+11
+        font-size: 15px;
+12
+      }
+13
+    
+14
+      p{
+15
+        text-indent: 2em;
+16
+      }
+17
+    </style>
+18
+  </head>
+19
+  <body>
+20
+    <h3>How to install the typescript compiler?</h3>
+21
+    <p>
+22
+      Once you've installed <a href="http://nodejs.org/">node.js</a>, just type "npm install -g typescript" in a terminal, and the typescript compiler will be installed.
+23
+    </p>
+24
+  </body>
+25
+</html>
